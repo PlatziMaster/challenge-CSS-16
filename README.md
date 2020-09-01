@@ -9,10 +9,11 @@ Subgrid
 La idea de este reto es lograr replicar el siguiente resultado: 
 
 <kbd>
-<img width="300" src="https://i.ibb.co/BjT1Mmc/Screen-Shot-2020-09-01-at-2-50-04-PM.png" />
+<img width="600" src="https://i.ibb.co/BjT1Mmc/Screen-Shot-2020-09-01-at-2-50-04-PM.png" />
 </kbd>
 
-</br>
+<br/>
+<br/>
 
 Requerimiento principal:
 
